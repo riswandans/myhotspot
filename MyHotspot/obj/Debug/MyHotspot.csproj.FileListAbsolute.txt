@@ -1,0 +1,8 @@
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\bin\Debug\MyHotspot.exe.config
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\bin\Debug\MyHotspot.exe
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\bin\Debug\MyHotspot.pdb
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\obj\Debug\MyHotspot.Properties.Resources.resources
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\obj\Debug\MyHotspot.csproj.GenerateResource.Cache
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\obj\Debug\MyHotspot.exe
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\MyHotspot\obj\Debug\MyHotspot.pdb
